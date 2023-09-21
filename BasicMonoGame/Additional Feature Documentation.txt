@@ -1,0 +1,11 @@
+Ben Moran
+2/22/2023
+
+My additional feature is an enemy that constantly follows Mario. This player is represemted as a Bowser
+texture, and if the enemy and player collide, it is an instant Game Over. I created the enemy as a 
+"player" but then added a helper method in Main in order to differentiate the enemy movement in
+comparison to the player.
+
+Depending on the coordinate positions of the player, the enemy will always move 2 pixels in each direction
+towards the player with every frame. This provides an additional challenge to the player as they have to 
+avoid colliding with the enemy while also racing against the clock.

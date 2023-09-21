@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/C#/repo 106/Homework/MonoGameGameHW/Content/Bowser.png","C:/C#/repo 106/Homework/MonoGameGameHW/Content/bin/DesktopGL/Content/Bowser.xnb","TextureProcessor","Texture2DContent",701514,3197029,0.1945856
+"C:/C#/repo 106/Homework/MonoGameGameHW/Content/Coin.png","C:/C#/repo 106/Homework/MonoGameGameHW/Content/bin/DesktopGL/Content/Coin.xnb","TextureProcessor","Texture2DContent",30360,186709,0.0093231
+"C:/C#/repo 106/Homework/MonoGameGameHW/Content/MarioKart.png","C:/C#/repo 106/Homework/MonoGameGameHW/Content/bin/DesktopGL/Content/MarioKart.xnb","TextureProcessor","Texture2DContent",461800,2991685,0.0577635
+"C:/C#/repo 106/Homework/MonoGameGameHW/Content/TitleVerdana60.spritefont","C:/C#/repo 106/Homework/MonoGameGameHW/Content/bin/DesktopGL/Content/TitleVerdana60.xnb","FontDescriptionProcessor","SpriteFontContent",2067,267295,0.096122
+"C:/C#/repo 106/Homework/MonoGameGameHW/Content/Verdana16.spritefont","C:/C#/repo 106/Homework/MonoGameGameHW/Content/bin/DesktopGL/Content/Verdana16.xnb","FontDescriptionProcessor","SpriteFontContent",2070,37919,0.0198593
