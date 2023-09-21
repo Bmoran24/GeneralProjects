@@ -1,0 +1,15 @@
+This project was one that I worked on in a team of 4. While we split up the workload, I mainly contributed to a lot of the core game mechanics and
+systems such as the infinite game loop, turn-based system, and move-selction. Other team members worked on the art and animation aspects, so I'll mostly
+be speaking to the contributions that I myself made through the code that doesn't relate to those portions of production.
+
+My team and I used Discord to organize the distribution of tasks and ensure that we finished everything by the deadline. We were given about a 2 month deadline
+for the project, but much of the work was expected to be completed outside of class time, so realistically (due to the fact we all had other classwork we
+also had to focus on) the final build is a culmination of our work under an even tighter timeframe. 
+
+Much of my work was done in the Game1, Enemy, and Character classes, as these are the main classes used to make the gameplay work fundamentally. I set
+up the systems that allow the player and enemy to attack each other and take respective damages, and I also set up much of the UI (not the artwork, more
+the organization). I also created the system that keeps the game running indefinitely until the player's health drops below 0. 
+
+Due to the time constraints of the project and the small team size, there are clear flaws in the game, such as move balancing issues and no clear way to 
+"win", since the game just continues until the player is killed. However, many of the core systems presented in the game are a good representation of 
+a rough mockup of the game that could be improved upon in the future with more polish and time. 
