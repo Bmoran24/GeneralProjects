@@ -1,0 +1,100 @@
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\attackButton.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\defendButton.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\foodCourt.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\MenuFont.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\minimize.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\MoveList.txt
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\NormalFontSize.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\prezel.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\Rectangle.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\startButton.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\Subheader.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\PretzelPaladin.exe
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\PretzelPaladin.deps.json
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\PretzelPaladin.runtimeconfig.json
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\PretzelPaladin.dll
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\PretzelPaladin.pdb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.csproj.AssemblyReference.cache
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.AssemblyInfoInputs.cache
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.AssemblyInfo.cs
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.csproj.CoreCompileInputs.cache
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.csproj.CopyComplete
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.dll
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\refint\PretzelPaladin.dll
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.pdb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.genruntimeconfig.cache
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\ref\PretzelPaladin.dll
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\PretzelPaladin.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\PretzelPaladin Back Image.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\Sbarro Samurai.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\bodok transparent.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\food court background.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\new rectangle.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\pretzel.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\rectangle image.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\bap.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\health bar.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\health box.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\text rect.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\transition background.xnb
+C:\Users\moran\OneDrive\Desktop\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\walk.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\MoveList.txt
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\attackButton.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\bap.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\bodok transparent.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\defendButton.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\food court background.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\foodCourt.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\health bar.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\health box.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\MenuFont.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\minimize.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\new rectangle.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\NormalFontSize.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\pretzel.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\PretzelPaladin Back Image.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\PretzelPaladin.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\prezel.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\rectangle image.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\Rectangle.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\Sbarro Samurai.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\startButton.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\Subheader.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\text rect.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\transition background.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\Content\walk.xnb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\PretzelPaladin.exe
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\PretzelPaladin.deps.json
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\PretzelPaladin.runtimeconfig.json
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\PretzelPaladin.dll
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\PretzelPaladin.pdb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.csproj.AssemblyReference.cache
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.AssemblyInfoInputs.cache
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.AssemblyInfo.cs
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.csproj.CoreCompileInputs.cache
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.csproj.CopyComplete
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.dll
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\refint\PretzelPaladin.dll
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.pdb
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\PretzelPaladin.genruntimeconfig.cache
+C:\C#\GDAPS Group Repo\Group Project\PretzelPaladin\obj\Debug\net6.0\ref\PretzelPaladin.dll

@@ -1,0 +1,7 @@
+Salt Storm,10
+Eggsplosion,25
+Yeast Beast,15
+Butter Bash,5
+Flour Fling,2
+Sugar Surge,4
+Milk Missle,12
