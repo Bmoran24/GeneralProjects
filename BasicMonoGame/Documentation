@@ -1,0 +1,8 @@
+This was an individual assignment for class that required us to create a simple MonoGame with user-input and a level system of some object collecting items. 
+I chose a simple MarioKart model that went around collecting coins, creating the simple level system that was requested. Also, we were required to add some
+other game element that made our game more unique, which is why I chose to have the Bowser model constantly chasing after the player, adding a little bit more
+of a challenge. 
+
+With every level completed, more coins are added for the user to collect, making each one slightly more difficult. This was a fairly small project overall
+that did not take much time to complete, which is why there are some clear improvements that could be made to add more polish. However, it is a fairly
+good representation of basic C# and MonoGame skills that have only been expanded upon since.
