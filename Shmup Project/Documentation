@@ -1,0 +1,36 @@
+This was a class project that required us to create a simple Shmup with input management, collision detection, and some kind of progression system. Further
+details of how these ideas were implemented are provided below:
+
+## Game Design
+
+-   Camera Orientation: Topdown
+-   Camera Movement: Does not Move
+-   Player Health: 3 Lives
+-   End Condition: Infinite unless player loses all lives -- will result in Game Over
+-   Scoring: Score increases over time
+
+### Game Description
+
+Outer Space Shmup where players take control of a space ship that must survive an onslaught of enemy ships and hostile extraterrestrials
+
+### Controls
+
+-   Movement
+    -   Left: A
+    -   Right: D
+-   Fire: SPACE
+
+## Further Additions
+
+_List out what you added to your game to make it different for you_
+- Screen-Wrapping on the left and right sides of the screen
+- Power-up that boosts speed (activated after player gets hit)
+
+## Sources
+
+          - Spaceship Sprite - https://pixelartmaker.com/art/1cfd7c8295792d4
+          - Laser Sprite     - https://wenrexa.itch.io/laser-pack-bullets
+          - Enemy Sprite     - https://pixelartmaker.com/art/7dcea30e81a6f56
+          - Background       - https://www.pinterest.co.uk/pin/328551735286971250/
+          - Arrow Enemy      - https://pixelartmaker.com/art/0895d8d68983686
+          - Speed Boost      - https://pixelartmaker.com/art/2f716783fd1e87b
