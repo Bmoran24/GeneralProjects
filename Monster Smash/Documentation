@@ -1,0 +1,6 @@
+This project represents the culmination of a semesters worth of learning HTML/JS. It was a solo project so all of the code is mine--however the assets used
+for the characters/sprites as well as the sounds were taken from online libraries that allow public use. All of the citations for these are located in the
+doc.html file.
+
+The general concept for the game is to avoid an endless horde of monsters while collecting ammo (slime) that can be used to fight back. The controls are 
+WASD to move the character and the Mouse Pointer can be used to aim at the enemies with the left-click allowing the player to fire. 
